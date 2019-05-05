@@ -3,7 +3,9 @@ This requires Java 8 Run Time environment as I have used Lambda functions which 
 
 This code requires 3 JSON files user.JSON, ticket.JSON and organisation in the C:\Homework directory. Create a homework folder in the C: drive and place the user.JSON,ticket.JSOn and organisation.JSON given in the previous email
 
-If you want to replace the location , change it in the DataSearch.java class (the 3 variable which stores this are stJSONFile stJSONFIleUsers, stJSONFileTickets and run the mvn clean install command to get the zen-1.0.jar)
+If you want to replace the location , change it in the DataSearch.java class (the 3 variable which stores this are stJSONFile stJSONFIleUsers, stJSONFileTickets and run the mvn clean install command to get the zen-1.0.jar) on the root directory which has the pom.xml
+
+Extract the files from the search.zip and place it a local directory
 
 navigate to the bin directory and run the search.bat
 
