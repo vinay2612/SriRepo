@@ -17,5 +17,5 @@ a for users, b for tickets, c for organisation
 
 after clicking on the option, the search criteria and search values needs to be entered. Please enter the search criteria and search value.
 
-If worng search criteria field is entered it throws an exception which will be handled later
-If wron search value is entered then it returns null
+If worng search criteria field is entered it skips and returns to main menu
+If wrong search value (the ones not present in JSON) is entered then it returns null and returns to main menu
